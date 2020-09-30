@@ -15,3 +15,13 @@ h1 {
 p {
     color: black;
   }
+
+.container {
+    padding: 24px;
+}
+
+.item {
+    background-color: ghostwhite;
+    margin-top: 48px;
+    padding: 4px 24px;
+}
